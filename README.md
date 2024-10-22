@@ -13,7 +13,7 @@ Während einer nachmittäglichen Lerneinheit habe ich gemeinsam mit meiner Dozen
 1. Klone dir das Repository
 
    ```git
-   git clone
+   git clone git@github.com:klatschenderaffe/Zitat-Generator.git
    ```
 
 2. Wechsel in den Ordner Zitat Generator
